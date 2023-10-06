@@ -16,7 +16,8 @@ The entire dataset underwent a comprehensive cleaning and transformation process
 - Filling null values with 'Unknown'
 - And more, detailed in the accompanying notebook.
 
-Dataset: https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8 
+Dataset: https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8
+Data Cleaning Notebook: https://www.kaggle.com/code/mohammednashat/los-angeles-crimes-data-cleaning
 
 ## Temporal Analysis:
 
